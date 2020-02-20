@@ -1,7 +1,7 @@
 ## Welcome to Procedural Island Generation
 
 ### The below link is a demonstration of the project
-https://github.com/Darryn-Wong/procedural-island-generation/edit/master/README.md
+https://darryn-wong.github.io/procedural-island-generation/
 
 ### Terrain 
 - uses a perlin map to randomly generate islands
