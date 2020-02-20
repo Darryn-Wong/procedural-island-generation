@@ -13,8 +13,8 @@ https://darryn-wong.github.io/procedural-island-generation/
   2. bad angle
   3. on top of other objects
   4. on water
- - To Prevent this from happening
+- To Prevent this from happening
   1. Uses raycast to detect the angle of the terrain
   2. Uses raycast to detect all for sides are landed
-  2. Use Layers to detect if its landing on the terrain
+  3. Use Layers to detect if its landing on the terrain
  
