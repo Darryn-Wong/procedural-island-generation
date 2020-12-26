@@ -5,7 +5,6 @@ https://darryn-wong.github.io/procedural-island-generation/
 
 ### Terrain 
 - Uses a perlin map to randomly generate islands
-- uses a perlin map to randomly generate islands
 
 ### Trees and Flowers
 - They are randomly droped from the air
