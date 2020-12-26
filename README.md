@@ -1,6 +1,6 @@
 ## Welcome to Procedural Island Generation
 
-### The below link is a demonstration of the project
+### Demonstration of the project
 https://darryn-wong.github.io/procedural-island-generation/
 
 ### Terrain 
